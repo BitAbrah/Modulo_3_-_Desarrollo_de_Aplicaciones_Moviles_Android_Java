@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SumaAPP</string>
+    <string name="editnumero1">Ingresar primer valor</string>
+    <string name="editnumero2">Ingresar segundo valor</string>
+    <string name="btsumar">Sumar</string>
+    <string name="btrestar">Restar</string>
+    <string name="btmultiplicar">Multiplicar</string>
+    <string name="btdividir">Dividir</string>
+    <string name="tvresultado">El resultado de la suma es: </string>
+</resources>

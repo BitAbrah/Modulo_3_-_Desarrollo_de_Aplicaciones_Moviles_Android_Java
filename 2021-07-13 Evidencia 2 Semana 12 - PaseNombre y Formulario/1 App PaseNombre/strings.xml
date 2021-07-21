@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PaseNombre</string>
+    <string name="textView">Pagina 1</string>
+    <string name="button">Pass</string>
+    <string name="textView2">Pagina 2</string>
+    <string name="button2">Dewervase</string>
+    <string name="editnombre">Ingrese Nombre</string>
+    <string name="tvnombre">Nombre</string>
+</resources>

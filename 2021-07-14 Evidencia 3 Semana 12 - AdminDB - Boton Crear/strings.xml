@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdminDB</string>
+    <string name="nombre">Ingrese Nombre Producto</string>
+    <string name="codigo">Ingrese Código Producto</string>
+    <string name="precio">Ingrese Precio Producto</string>
+    <string name="crear">Crear</string>
+    <string name="buscar">Buscar</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Borrar</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PaseFormulario</string>
+    <string name="textView">Formulario</string>
+    <string name="button">Finalizar</string>
+    <string name="textView2">Pagina 2</string>
+    <string name="tvconfirm">Usuario</string>
+    <string name="button2">Volver</string>
+    <string name="tnombre">Ingrese Nombre</string>
+    <string name="tapellido">Ingrese Apellido</string>
+    <string name="ttelefono">Ingrese Telefono</string>
+    <string name="tcorreo">Ingrese Correo</string>
+    <string name="tfecha">Fecha Nacimiento</string>
+
+</resources>
